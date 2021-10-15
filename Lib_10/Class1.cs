@@ -10,7 +10,7 @@ namespace Lib_10
          
     {
         /// <summary>
-        /// 
+        /// Функция для расчета суммы элементов массива
         /// </summary>
         /// <param name="k"></param>
         /// <param name="kol"></param>
